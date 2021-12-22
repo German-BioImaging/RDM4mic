@@ -62,7 +62,7 @@ Format:
 * Luiu Gadelha ( Cluster of Excellence Balance of the Microverse Jena, yes)
 * Phillip Mallm (DKFZ)
 * Sascha Genehr (Uni Rostock)
-* Göktug Islamogly (Istanbul Technical University)
+* Göktug Islamoglu (CIBSS Freiburg)
 
 ## Welcome
 - Introduction round of the participants, and a short welcome from Thomas Zobel
