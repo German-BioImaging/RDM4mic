@@ -216,7 +216,7 @@ DOI workflow planned
 ## NFDI4BI survey presentation (J. Hanne)
 * community effort to address the state-of-the-art in bioimaging RDM
 * questionnaire was drafted by the NFDI4BI initiative, conducted as online survey in 
-* link will be added when paper is published
+* link to the survey paper publication (added after the meeting): https://doi.org/10.12688/f1000research.121714.1
 
 
 ## Training material hub (CC-BY)
