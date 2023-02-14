@@ -202,7 +202,7 @@ https://gerbi-gmb.de/i3dbio/
     * Training and community integration (Haase, Zobel)
     * Coordination, governance and networking (Weidtkamp-Peters, May)
 
-Contact: Christian Schmidt (nfd4bioimage@uni-konstanz.de)
+Contact: Christian Schmidt (nfdi4bioimage@uni-konstanz.de)
 
 #### Questions:
 * JW: BioImageArchive, plans for DOI?
